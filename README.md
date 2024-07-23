@@ -55,5 +55,13 @@ O comando acima executa a classe Derivadas do compilador. Para a classe poder se
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/andreescorel">
+        <img src="colaboradores/andre-escorel.jpg" width="100px;"/><br>
+        <sub>
+          <b>André Escorel</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
