@@ -48,7 +48,7 @@ O comando acima executa a classe Derivadas do compilador. Para a classe poder se
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/rodrigopascaretta">
+      <a href="https://github.com/rjpgm">
         <img src="colaboradores/rodrigo-pascaretta.jpg" width="100px;"/><br>
         <sub>
           <b>Rodrigo Pascaretta</b>
